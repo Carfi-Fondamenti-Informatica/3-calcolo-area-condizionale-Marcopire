@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-    int a = 0;
-    int b = 0;
+    float a = 0;
+    float b = 0;
     int opzione = 0;
 
 
